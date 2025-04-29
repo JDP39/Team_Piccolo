@@ -8,5 +8,6 @@
 **Other Resources:**
 
 - [Personas](https://temahau-my.sharepoint.com/:w:/g/personal/krausb1_student_eit_ac_nz/ETKhxHdHlMROiMUO8QtqSREBxvp2lctm7L5QFSJmSKFO-g?e=Mo8Kr9)
+- [Resource needs](https://temahau-my.sharepoint.com/:w:/g/personal/mcclum10_student_eit_ac_nz/EaFnvpf2hONNgxirRwChpjkB4UhzSef-vrpC2GYeTQFQoA?e=7Kly5P)
 - [WBS](https://temahau-my.sharepoint.com/:x:/g/personal/mcclum10_student_eit_ac_nz/EdDn_O_zf7FOu17nh5oG6w0BjP_tPYAsMEUWGOC14sZuzQ?e=zNED3s)
 - [Gannt Chart](https://temahau-my.sharepoint.com/:x:/g/personal/mcclum10_student_eit_ac_nz/EYHwrSWzUUxPkKrvsfKlUIMBK6GPlEsHRpUJ1Qo4z01tLA?e=CkTsP8)
