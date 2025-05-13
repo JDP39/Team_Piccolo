@@ -4,6 +4,7 @@
 
 - [Iteration 1 Meeting](https://temahau-my.sharepoint.com/:w:/g/personal/rollsm4_student_eit_ac_nz/EW2e-s5hsilBls37RMelEPEBK62bDk3bWHpRi1G5bgMupA?e=YYxGlI)
 - [Iteration 2 Meeting](https://temahau-my.sharepoint.com/:w:/g/personal/rollsm4_student_eit_ac_nz/EYvAMMjUm3hAmOXUlMdbJTEBK9OPxRwz1AOAiQMSTqb8FA?e=WmaBEb)
+- [Iteration 3 Meeting](https://temahau-my.sharepoint.com/:w:/g/personal/rollsm4_student_eit_ac_nz/EeAhZyysXbNMgKKO3elgAuoBM3QxNGEB4DzKWGpGeWNeEQ?e=laa82t)
 
 **Other Resources:**
 
