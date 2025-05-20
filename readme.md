@@ -6,6 +6,12 @@
 - [Iteration 2 Meeting](https://temahau-my.sharepoint.com/:w:/g/personal/rollsm4_student_eit_ac_nz/EYvAMMjUm3hAmOXUlMdbJTEBK9OPxRwz1AOAiQMSTqb8FA?e=WmaBEb)
 - [Iteration 3 Meeting](https://temahau-my.sharepoint.com/:w:/g/personal/rollsm4_student_eit_ac_nz/EeAhZyysXbNMgKKO3elgAuoBM3QxNGEB4DzKWGpGeWNeEQ?e=laa82t)
 
+**Progress Reports**
+
+- [Iteration 1 Progress Report](https://temahau-my.sharepoint.com/:w:/g/personal/rollsm4_student_eit_ac_nz/EVIv-9CvYXNFg9hIWITvg9ABG729xkgjKd82mD7PAmhYJQ?e=Qx6QMq)
+- [Iteration 2 Progress Report](https://temahau-my.sharepoint.com/:w:/g/personal/mcclum10_student_eit_ac_nz/EeiYZCULjMlOnICLvDqhRiEBaGwFfhrsxPrq-1-1xRW8Gw?e=vE0EBO)
+- [Iteration 3 Progress Report](https://temahau-my.sharepoint.com/:w:/g/personal/mcclum10_student_eit_ac_nz/EbodQjmuLpRMp_TPU-o2M-cBtGQFUuXvv6yfu-15uS-_Tw?e=wrG73j)
+
 **Other Resources:**
 
 - [Stakeholder Register](https://temahau-my.sharepoint.com/:x:/g/personal/rollsm4_student_eit_ac_nz/EUF1GZp3nwZIo8CP0dl2k90BvDiWa67Vo9nJ5jG-aHxcrg?e=masXRN)
